@@ -4,6 +4,9 @@ React'e başlarken küçük bir webapi uygulaması
 
 Faydalı olması dileğiyle...
 
+![IMAGE ALT TEXT HERE](https://github.com/aliyasindogan/covid-19-react/blob/master/public/COVID-19-React-App.png)
+
+
 
 ### [Kaynak video için tıklayınız](https://www.youtube.com/watch?v=X1phgl7c_Uc&list=PLv1CRNciwsrdOObUDx7r9HOjqPxywbrXe&index=18)
 
